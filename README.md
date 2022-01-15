@@ -12,6 +12,14 @@
 </div>
 
 <p>I'm a Javascript Developer. I'm currently pursuing my bachelors from Shri Guru Ram Rai University Dehradun. I've good experience in problem solving.</p>
+
+<h2>💁‍♂️ Experience</h2>
+<h3>Data Structures and Algorithms Mentee</h3>
+<p>I've been a data structures and algorithms mentee at Girl Code It for a year. In this time I solved more than 1000 problems on different coding plateforms based on different data structures, it helped me a lot to improve my logical thinking and problem solving skills.</p>
+
+<h3>Web Developement Mentee </h3>
+<p> I've been a Web Development mentee at Girl Code It for a year again. I this time I learnt to build static, dyanamic websites. I got a good grasp over javascript. I learnt javascript frontend library React JS in this time.</p>
+
 <h2>👨‍💻 Technologies I'm familiar with</h2>
 <div align = "center" >
 <img height = "35px"src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
@@ -24,7 +32,7 @@
  <img height = "35px" src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </div>
 
-<h2>Coding Profiles</h2>
+<h2>🎓 Coding Profiles</h2>
 <a href = "https://www.leetcode.com/shubhamfuloria/" ><img height = "35px" src = "https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
 <a href = "https://www.codechef.com/profile/shubhamfuloria" ><img height = "35px" src = "https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white"/></a>
 <a href = "https://www.hackerrank.com/shubhamfuloria"><img height = "35px" src = "https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
