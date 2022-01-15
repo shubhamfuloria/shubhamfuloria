@@ -1,4 +1,11 @@
-### Hi there 👋
+<h1>Hi there, I am Shubham Fuloria <img width = "80px" src = "https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif"></h1> 
+<h2 > Connect to me <br> </br>
+ <a href = "https://www.linkedin.com/in/shubhamfuloria/" target = "_blank"><img width = "50px" src = "https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>&nbsp; &nbsp;
+ <a href = "mailto:sfuloria10200@gmail.com" target = "_blank"><img width = "50px" src = "https://cdn-icons-png.flaticon.com/512/5968/5968534.png"></a>&nbsp; &nbsp;
+ <a href = "https://www.github.com/shubhamfuloria/" target = "_blank"><img width = "50px" src = "https://cdn-icons-png.flaticon.com/512/2111/2111432.png"></a>
+
+
+</h2>
 
 <!--
 **shubhamfuloria/shubhamfuloria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +22,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm Shubham Fuloria, a Javascript Developer, a Compititve Programmer.
+
