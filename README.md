@@ -16,7 +16,7 @@
 <h2>💁‍♂️ Experience</h2>
 
 <h3>Javascript Developer</h3>
-<p>Working as a full stack Javascript developer at Evon Technologies.</p>
+<p>Working as a full stack Javascript Developer at Evon Technologies.</p>
 
 <h3>Data Structures and Algorithms Mentee</h3>
 <p>I've been a data structures and algorithms mentee at Girl Code It for a year. In this time I solved more than 1000 problems on different coding plateforms based on different data structures, it helped me a lot to improve my logical thinking and problem solving skills.</p>
