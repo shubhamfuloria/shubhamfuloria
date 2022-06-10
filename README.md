@@ -7,8 +7,8 @@
 </h2>
 
 <h2>🧑  About me </h2>
-<div style="display: flex;">
-<img align="right" width = "50px" src = "https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif"/>
+<div width = "40%">
+<!-- <img align="right" width = "300px" src = "https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif"/> -->
 </div>
 
 <p>I'm a Javascript Developer. I'm currently pursuing my bachelors from Shri Guru Ram Rai University Dehradun. I've good experience in problem solving.</p>
