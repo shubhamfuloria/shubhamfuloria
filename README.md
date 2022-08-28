@@ -11,12 +11,16 @@
 <!-- <img align="right" width = "300px" src = "https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif"/> -->
 </div>
 
-<p>I'm a Javascript Developer. I'm currently pursuing my bachelors from Shri Guru Ram Rai University Dehradun. I've good experience in problem solving.</p>
+<p>I'm a Javascript Developer. I'm currently working as a Associate Software Engineer at Evon Technologies. I've completed my grad from Shri Guru Ram Rai University.</p>
 
 <h2>💁‍♂️ Experience</h2>
 
+<h3>Associate Software Engineer</h3>
+<p>working as associate software engineer at Evon Technologies.</p>
+
+
 <h3>Javascript Developer</h3>
-<p>Working as a full stack Javascript Developer at Evon Technologies.</p>
+<p>Working as a full stack Javascript Developer intern at Evon Technologies.</p>
 
 <h3>Data Structures and Algorithms Mentee</h3>
 <p>I've been a data structures and algorithms mentee at Girl Code It for a year. In this time I solved more than 1000 problems on different coding plateforms based on different data structures, it helped me a lot to improve my logical thinking and problem solving skills.</p>
