@@ -9,6 +9,7 @@
 <h2>🧑  About me </h2>
 <div width = "40%">
 <!-- <img align="right" width = "300px" src = "https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif"/> -->
+<img align="right" width = "300px" src = "https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif"/>
 </div>
 
 <p>I'm a Javascript Developer. I'm currently working as a Associate Software Engineer at Evon Technologies. I've completed my grad from Shri Guru Ram Rai University.</p>
