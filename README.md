@@ -5,7 +5,7 @@
   <a href = "mailto:sfuloria10200@gmail.com" target = "_blank"><img width = "50px" src = "https://cdn-icons-png.flaticon.com/512/5968/5968534.png"></a>&nbsp;     &nbsp;
   <a href = "https://www.github.com/shubhamfuloria/" target = "_blank"><img width = "50px" src = "https://cdn-icons-png.flaticon.com/512/2111/2111432.png"></a>
 </h2>
-
+<div>
 <h2>🧑  About me </h2>
 <div width = "40%">
 <!-- <img align="right" width = "300px" src = "https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif"/> -->
@@ -13,7 +13,7 @@
 </div>
 
 <p>I'm a Javascript Developer. I'm currently working as a Associate Software Engineer at Evon Technologies. I've completed my grad from Shri Guru Ram Rai University.</p>
-
+</div>
 <h2>💁‍♂️ Experience</h2>
 
 <h3>Associate Software Engineer</h3>
