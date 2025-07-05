@@ -12,7 +12,7 @@
 <img align="right" width = "300px" src = "https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif"/>
 </div>
 
-<p>I'm a Javascript Developer. I'm currently working as a Associate Software Engineer at Evon Technologies. I've completed my grad from Shri Guru Ram Rai University.</p>
+<p>A Software Engineer with over 3 years of experience specializing in building scalable software solutions. I have experience in building and delivering production-ready front-end and back-end applications. Expertise in building customized WebRTC solutions with the aim of writing scalable code.</p>
 </div>
 <h2>💁‍♂️ Experience</h2>
 
