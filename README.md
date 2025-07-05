@@ -48,6 +48,7 @@ I've been learning and growing through two key areas during my time here:
  <img height = "35px" src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   <img height = "35px" src ="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img height="35px" src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white"/>
+  <img height="35px" src="https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react"/>
 </div>
 
 <h2>🎓 Coding Profiles</h2>
