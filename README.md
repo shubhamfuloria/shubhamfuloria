@@ -12,22 +12,29 @@
 <img align="right" width = "300px" src = "https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif"/>
 </div>
 
-<p>A Software Engineer with over 3 years of experience specializing in building scalable software solutions. I have experience in building and delivering production-ready front-end and back-end applications. Expertise in building customized WebRTC solutions with the aim of writing scalable code.</p>
+<p>A Software Engineer with over 3 years of experience. </p>
+  <ul>
+    <li>I convert ideas into products.</li>
+    <li>I specialize in building end-to-end web applications, from server-side development to database design, always curious and eager to learn something new.</li>
+    <li>Exerience in building customized webRTC applications.</li>
+  </ul>
 </div>
+
 <h2>💁‍♂️ Experience</h2>
 
-<h3>Associate Software Engineer</h3>
-<p>working as associate software engineer at Evon Technologies.</p>
+### Software Engineer at Evon (3+ years)
+Specialized in full-stack development with expertise in:
+- Developed multiple end-to-end web applications using React/Node.js and mobile apps with React Native
+- Built custom WebRTC solutions for real-time video/audio communication
+- Delivered cross-platform applications for Linux and Windows environments  
+- Transformed client requirements into production-ready software products
 
 
-<h3>Javascript Developer</h3>
-<p>Working as a full stack Javascript Developer intern at Evon Technologies.</p>
-
-<h3>Data Structures and Algorithms Mentee</h3>
-<p>I've been a data structures and algorithms mentee at Girl Code It for a year. In this time I solved more than 1000 problems on different coding plateforms based on different data structures, it helped me a lot to improve my logical thinking and problem solving skills.</p>
-
-<h3>Web Developement Mentee </h3>
-<p> I've been a Web Development mentee at Girl Code It for a year again. I this time I learnt to build static, dyanamic websites. I got a good grasp over javascript. I learnt javascript frontend library React JS in this time.</p>
+### Trainee at Girl Code It (2+ years)
+I've been learning and growing through two key areas during my time here:
+- **Data Structures & Algorithms Mentee:** I solved more than 1000 problems on different coding platforms, which really helped me improve my logical thinking and problem-solving skills
+- **Web Development Mentee:** I learned to build static and dynamic websites, got a good grasp of JavaScript, and picked up React.js for frontend development
+- This journey from solving algorithmic problems to building real websites has been incredible for my growth as a developer
 
 <h2>👨‍💻 Technologies I'm familiar with</h2>
 <div align = "center" >
@@ -39,6 +46,8 @@
  <img height = "35px" src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
  <img height = "35px" src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
  <img height = "35px" src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img height = "35px" src ="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img height="35px" src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white"/>
 </div>
 
 <h2>🎓 Coding Profiles</h2>
